@@ -21,10 +21,11 @@ Key Steps in Creating the Elastic Hash Table:
   - **Amortized Expected Probe Complexity**: \(O(1)\)
   - **Worst-case Expected Probe Complexity**: \(O(\log \delta^{-1})\), where \(\delta\) represents the load factor.
 
-Source:
-https://arxiv.org/abs/2501.02305
+[Arxiv Paper](https://arxiv.org/abs/2501.02305)
 
-Bibtex:
+Citation
+
+```
 @misc{farachcolton2025optimalboundsopenaddressing,
       title={Optimal Bounds for Open Addressing Without Reordering}, 
       author={Martin Farach-Colton and Andrew Krapivin and William Kuszmaul},
@@ -34,3 +35,4 @@ Bibtex:
       primaryClass={cs.DS},
       url={https://arxiv.org/abs/2501.02305}, 
 }
+```
